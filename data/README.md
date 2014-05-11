@@ -1,0 +1,1 @@
+In this directory must be the file: "household_power_consumption.txt" (from exdata-data-household_power_consumption.zip)
